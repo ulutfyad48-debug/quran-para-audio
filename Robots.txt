@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap Link
+Sitemap: https://ulutfyad48-debug.github.io/Quran-MP3/sitemap.xml
